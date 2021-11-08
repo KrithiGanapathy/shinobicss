@@ -1,6 +1,6 @@
-# ShinobiCSS
+### ShinobiCSS
 Ultimate css framework for webdevs
 
-## Import Link <a>https://raw.githubusercontent.com/KrithiGanapathy/shinobicss/main/shinobi.css</a>
+<a href="https://raw.githubusercontent.com/KrithiGanapathy/shinobicss/main/shinobi.css">Import Link</a>
   
 #### Huge thanks to Shaun Pelling a.k.a "The Net Ninja" for teaching me how to do this
